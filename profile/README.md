@@ -47,14 +47,6 @@ AgileSpark thrives on the power of open source. Whether you are an AI researcher
 
 ---
 
-## 📬 Contact & Connect
-
-*   **GitHub Issues**: [Submit Feedback & Requests](https://github.com/AgileSpark/agilespark-core/issues)
-*   **Email**: contact@agilespark.org *(Replace with your actual community email)*
-*   **Discord / Slack**: [Join our developer community](https://discord.gg/your-invite-link) *(Replace with your community link)*
-
----
-
 <p align="center">
   <b>🌟 Every brilliant AI implementation begins with a single spark of inspiration. Join AgileSpark and let's accelerate the intelligent future together! 🌟</b>
 </p>
